@@ -1,4 +1,4 @@
-var posts=["2025/08/05/页面配置📦/","2025/08/04/第一篇博客/"];function toRandomPost(){
+var posts=["2025/08/04/第一篇博客/","2025/08/05/页面配置📦/"];function toRandomPost(){
     pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);
   };var friend_link_list=[];
     var refreshNum = 1;
