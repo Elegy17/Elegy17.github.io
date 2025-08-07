@@ -6,3 +6,10 @@ aside: false
 top_img: false
 ---
 
+{% timeline 2025,red %}
+<!-- timeline 08-04 -->
+{% mermaid %}
+欧耶,我的小博客今天诞生啦~
+{% endmermaid %}
+<!-- endtimeline -->
+{% endtimeline %}
