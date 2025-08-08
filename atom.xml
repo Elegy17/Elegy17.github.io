@@ -6,7 +6,7 @@
   <link href="https://blog.00000106.xyz/atom.xml" rel="self"/>
   
   <link href="https://blog.00000106.xyz/"/>
-  <updated>2025-08-07T20:24:36.332Z</updated>
+  <updated>2025-08-07T20:24:36.000Z</updated>
   <id>https://blog.00000106.xyz/</id>
   
   <author>
@@ -20,8 +20,8 @@
     <title>Hello World</title>
     <link href="https://blog.00000106.xyz/posts/3eeb.html"/>
     <id>https://blog.00000106.xyz/posts/3eeb.html</id>
-    <published>2025-08-07T20:24:36.332Z</published>
-    <updated>2025-08-07T20:24:36.332Z</updated>
+    <published>2025-08-08T12:06:17.826Z</published>
+    <updated>2025-08-07T20:24:36.000Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
@@ -44,7 +44,7 @@
     <link href="https://blog.00000106.xyz/posts/e838.html"/>
     <id>https://blog.00000106.xyz/posts/e838.html</id>
     <published>2025-08-04T14:55:11.000Z</published>
-    <updated>2025-08-07T20:24:36.328Z</updated>
+    <updated>2025-08-07T20:24:36.000Z</updated>
     
     <content type="html"><![CDATA[<h1 id="介绍"><a href="#介绍" class="headerlink" title="介绍"></a>介绍</h1><hr><p>hello, 大家好, 我叫星然, 很高兴在这里认识你们.<br>这是我第一次搭建博客,所以这个博客主要是用来记录一下我的日常,以及一些我觉得好玩有趣的东西.<br>所以呢,这个网站可能访问的人并不会很多,这将是我一个人的日记博客,可以这样说😝</p><h3 id="所以如果有人来到了这个博客站-或者叫日记站"><a href="#所以如果有人来到了这个博客站-或者叫日记站" class="headerlink" title="所以如果有人来到了这个博客站,或者叫日记站"></a>所以如果有人来到了这个博客站,或者叫日记站</h3><h3 id="你可以在这里逛一逛-看看有没有什么你觉得有趣的东西"><a href="#你可以在这里逛一逛-看看有没有什么你觉得有趣的东西" class="headerlink" title="你可以在这里逛一逛,看看有没有什么你觉得有趣的东西."></a>你可以在这里逛一逛,看看有没有什么你觉得有趣的东西.</h3><p><img src="https://img.00000106.xyz/file/AgACAgQAAxkDAAOTaJDNJQLg8_Pg9U-ZlnZ3FkKrsJoAApjHMRvP4YlQ9MeLVT_CT3UBAAMCAAN5AAM2BA.jpg" alt="国风龙"></p>]]></content>
     
