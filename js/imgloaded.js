@@ -55,17 +55,17 @@
 
   const ldconfig = {
     light: {
-	  smallSrc: '手机深色模式小图.jpeg',
-	  largeSrc: '手机深色模式大图.jpeg',
-	  mobileSmallSrc: '手机浅色模式小图.jpeg',
-	  mobileLargeSrc: '手机浅色模式大图.jpeg',
+	  smallSrc: 'https://unpkg.com/xeran@0.0.7/img/电脑浅色模式小图.jpeg',
+	  largeSrc: 'https://unpkg.com/xeran@0.0.7/img/电脑浅色模式大图.jpeg',
+	  mobileSmallSrc: 'https://unpkg.com/xeran@0.0.7/img/手机浅色模式小图.jpeg',
+	  mobileLargeSrc: 'https://unpkg.com/xeran@0.0.7/img/手机浅色模式大图.jpeg',
 	  enableRoutes: ['/'],
 	  },
 	dark: {
-	  smallSrc: '电脑深色模式小图.jpeg',
-	  largeSrc: '电脑深色模式大图.jpeg',
-	  mobileSmallSrc: '电脑浅色模式小图.jpeg',
-	  mobileLargeSrc: '电脑浅色模式大图.jpeg',
+	  smallSrc: 'https://unpkg.com/xeran@0.0.7/img/电脑深色模式小图.jpeg',
+	  largeSrc: 'https://unpkg.com/xeran@0.0.7/img/电脑深色模式大图.jpeg',
+	  mobileSmallSrc: 'https://unpkg.com/xeran@0.0.7/img/手机深色模式小图.jpeg',
+	  mobileLargeSrc: 'https://unpkg.com/xeran@0.0.7/img/手机深色模式大图.jpeg',
 	  enableRoutes: ['/'],
 	  },
 	};
