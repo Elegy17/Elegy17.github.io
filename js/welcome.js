@@ -1,5 +1,5 @@
 // 进行 fetch 请求
-fetch('https://api.nsmao.net/api/ip/query?key=ExjHjsn5tpX6zdQa2DkFn7Zi6G') // 申请地址：https://api.nsmao.net
+fetch('https://api.nsmao.net/api/ipip/geo/v1/query?key=ExjHjsn5tpX6zdQa2DkFn7Zi6G') // 申请地址：https://api.nsmao.net
     .then(response => {
         if (!response.ok) {
             throw new Error('Network response was not ok');
@@ -71,6 +71,8 @@ function showWelcome() {
             break;
         case "加拿大":
             posdesc = "拾起一片枫叶赠予你";
+        case "新加坡":
+            posdesc = "一起夜游滨海湾吧!";
             break;
         case "中国":
             pos = ipLocation.data.prov + " " + ipLocation.data.city + " " + ipLocation.data.district;
