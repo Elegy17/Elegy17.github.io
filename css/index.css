@@ -2830,7 +2830,7 @@ body {
   background: var(--global-bg);
   color: var(--font-color);
   font-size: var(--global-font-size);
-  font-family: https://unpkg.com/xeran@0.0.8/ttf/保时捷圆M.ttf;
+  font-family: 保时捷圆M;
   line-height: 2;
   -webkit-tap-highlight-color: rgba(0,0,0,0);
   -webkit-user-select: none;
@@ -2982,7 +2982,7 @@ a:hover {
 #site-name,
 #aside-content .author-info__name,
 #aside-content .author-info__description {
-  font-family: PingFang SC, 'Hiragino Sans GB', 'Microsoft JhengHei', 'Microsoft YaHei', sans-serif;
+  font-family: 保时捷圆M;
 }
 .is-center {
   text-align: center;
@@ -3333,7 +3333,7 @@ figure.highlight pre .javascript .function {
 #article-container pre,
 #article-container code {
   font-size: var(--global-font-size);
-  font-family: consolas, 保时捷圆M, Menlo, "PingFang SC", "Microsoft JhengHei", "Microsoft YaHei", sans-serif !important;
+  font-family: consolas, Menlo, "PingFang SC", "Microsoft JhengHei", "Microsoft YaHei", sans-serif !important;
 }
 #article-container code {
   padding: 2px 4px;
@@ -3686,7 +3686,7 @@ figure.highlight pre .javascript .function {
   height: 100%;
   vertical-align: top;
   text-align: center;
-  font-family: PingFang SC, 'Hiragino Sans GB', 'Microsoft JhengHei', 'Microsoft YaHei', sans-serif;
+  font-family: 保时捷圆M;
 }
 @media screen and (max-width: 768px) {
   .error404 #error-wrap .error-content .error-info {
@@ -8617,7 +8617,7 @@ body:has(#console.show) #nav-music {
   color: var(--anzhiyu-lighttext);
 }
 #tag #tag-page-tags a {
-  font-family: https://unpkg.com/xeran@0.0.8/ttf/保时捷圆M.ttf;
+  font-family: 保时捷圆M;
   font-size: 0.9em;
 }
 #tag #tag-page-tags a:hover {
@@ -8636,7 +8636,7 @@ span.categoryes-punctuation .icon-biaoqian {
   font-size: 13px;
 }
 .tagsPageCount {
-  font-family: https://unpkg.com/xeran@0.0.8/ttf/保时捷圆M.ttf;
+  font-family: 保时捷圆M;
 }
 [data-theme="light"] #post .tag_share .post-meta__box__tags span.tagsPageCount {
   background-color: transparent;
@@ -8929,7 +8929,7 @@ h1.page-title + .tag-cloud-list {
   padding: 0.5rem;
   text-align: center;
   font-size: 14px;
-  font-family: https://unpkg.com/xeran@0.0.8/ttf/保时捷圆M.ttf;
+  font-family: 保时捷圆M;
 }
 @media screen and (max-width: 768px) {
   #error-wrap .error-content .error-info {
@@ -19389,11 +19389,11 @@ p.p.gray {
   position: absolute;
   width: 100%;
   height: 100%;
-  background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.1) 0%, rgba(0,0,0,0) 75%, rgba(0,0,0,0) 100%);
-  background-image: -moz-linear-gradient(top, rgba(0,0,0,0.1) 0%, rgba(0,0,0,0) 75%, rgba(0,0,0,0) 100%);
-  background-image: -o-linear-gradient(top, rgba(0,0,0,0.1) 0%, rgba(0,0,0,0) 75%, rgba(0,0,0,0) 100%);
-  background-image: -ms-linear-gradient(top, rgba(0,0,0,0.1) 0%, rgba(0,0,0,0) 75%, rgba(0,0,0,0) 100%);
-  background-image: linear-gradient(to bottom, rgba(0,0,0,0.1) 0%, rgba(0,0,0,0) 75%, rgba(0,0,0,0) 100%);
+  background-image: -webkit-linear-gradient(top, rgba(0,0,0,0) 0%, rgba(0,0,0,0) 35%, rgba(0,0,0,0) 75%, rgba(0,0,0,0) 100%);
+  background-image: -moz-linear-gradient(top, rgba(0,0,0,0) 0%, rgba(0,0,0,0) 35%, rgba(0,0,0,0) 75%, rgba(0,0,0,0) 100%);
+  background-image: -o-linear-gradient(top, rgba(0,0,0,0) 0%, rgba(0,0,0,0) 35%, rgba(0,0,0,0) 75%, rgba(0,0,0,0) 100%);
+  background-image: -ms-linear-gradient(top, rgba(0,0,0,0) 0%, rgba(0,0,0,0) 35%, rgba(0,0,0,0) 75%, rgba(0,0,0,0) 100%);
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(0,0,0,0) 35%, rgba(0,0,0,0) 75%, rgba(0,0,0,0) 100%);
   content: '';
   z-index: 2;
   pointer-events: none;
