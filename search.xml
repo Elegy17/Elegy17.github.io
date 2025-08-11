@@ -4,11 +4,45 @@
   
     
     <entry>
+      <title>Hexo安装与部署</title>
+      <link href="/posts/818a.html"/>
+      <url>/posts/818a.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="什么是-Hexo？"><a href="#什么是-Hexo？" class="headerlink" title="什么是 Hexo？"></a>什么是 Hexo？</h1><p>Hexo 是一个快速、简洁且高效的博客框架。 Hexo 使用 Markdown（或其他标记语言）解析文章，在几秒内，即可利用靓丽的主题生成静态网页。</p><h1 id="安装要求"><a href="#安装要求" class="headerlink" title="安装要求"></a>安装要求</h1><p>安装 Hexo 相当简单，只需要先安装下列应用程序即可：</p><ul><li>Node.js </li><li>Git<br>Node. Js 需不低于 10.13，建议使用 Node. Js 12.0 及以上</li></ul><p>如果您的电脑中已经安装上述必备程序，那么恭喜你！ 你可以直接跟着接下来的步骤安装了。</p><p>如果您的电脑&#x2F;手机中尚未安装所需要的程序，请根据以下安装指示完成安装。</p><h3 id="安装-Git"><a href="#安装-Git" class="headerlink" title="安装 Git"></a>安装 Git<a href="https://hexo.io/zh-cn/docs/#%E5%AE%89%E8%A3%85-Git"></a></h3><ul><li>Windows：下载并安装 <a href="https://git-scm.com/download/win">git</a>。</li><li>Mac：使用 <a href="http://mxcl.github.com/homebrew/">Homebrew</a>, <a href="http://www.macports.org/">MacPorts</a> 或者下载 <a href="http://sourceforge.net/projects/git-osx-installer/">安装程序</a>。</li><li>Linux (Ubuntu, Debian)：</li></ul><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">sudo</span> apt-get install git-core</span><br></pre></td></tr></table></figure><ul><li>Linux (Fedora, Red Hat, CentOS)：</li></ul><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">sudo</span> yum install git-core</span><br></pre></td></tr></table></figure><ul><li>Android (Termux)：</li></ul><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">pkg install git</span><br></pre></td></tr></table></figure><div class="note info modern"><h4 id="Mac-用户"><a href="#Mac-用户" class="headerlink" title="Mac 用户"></a>Mac 用户</h4><p>如果在编译时可能会遇到问题。 请先到 App Store 安装 Xcode。 Xcode 完成后，启动并进入 Preferences -&gt; Download -&gt; Command Line Tools -&gt; Install 安装命令行工具。</p></div><h1 id="后续内容正在缓慢施工中…"><a href="#后续内容正在缓慢施工中…" class="headerlink" title="后续内容正在缓慢施工中…"></a>后续内容正在缓慢施工中…</h1>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Hexo </tag>
+            
+            <tag> 教程 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/posts/3eeb.html"/>
       <url>/posts/3eeb.html</url>
       
         <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>第一篇博客</title>
+      <link href="/posts/e838.html"/>
+      <url>/posts/e838.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="介绍"><a href="#介绍" class="headerlink" title="介绍"></a>介绍</h1><hr><p>hello, 大家好, 我叫星然, 很高兴在这里认识你们.<br>这是我第一次搭建博客,所以这个博客主要是用来记录一下我的日常,以及一些我觉得好玩有趣的东西.<br>所以呢,这个网站可能访问的人并不会很多,这将是我一个人的日记博客,可以这样说😝</p><h3 id="所以如果有人来到了这个博客站-或者叫日记站"><a href="#所以如果有人来到了这个博客站-或者叫日记站" class="headerlink" title="所以如果有人来到了这个博客站,或者叫日记站"></a>所以如果有人来到了这个博客站,或者叫日记站</h3><h3 id="你可以在这里逛一逛-看看有没有什么你觉得有趣的东西"><a href="#你可以在这里逛一逛-看看有没有什么你觉得有趣的东西" class="headerlink" title="你可以在这里逛一逛,看看有没有什么你觉得有趣的东西."></a>你可以在这里逛一逛,看看有没有什么你觉得有趣的东西.</h3><p><img src= "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" onerror="this.onerror=null,this.src=&quot;/img/404.jpg&quot;" data-lazy-src="https://img.00000106.xyz/file/AgACAgQAAxkDAAOTaJDNJQLg8_Pg9U-ZlnZ3FkKrsJoAApjHMRvP4YlQ9MeLVT_CT3UBAAMCAAN5AAM2BA.jpg" alt="国风龙"></p>]]></content>
       
       
       
@@ -27,9 +61,9 @@
       
         <tags>
             
-            <tag> Tag Plugins </tag>
-            
             <tag> Hexo </tag>
+            
+            <tag> Tag Plugins </tag>
             
         </tags>
       

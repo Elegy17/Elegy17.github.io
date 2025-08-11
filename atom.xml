@@ -6,7 +6,7 @@
   <link href="https://blog.00000106.xyz/atom.xml" rel="self"/>
   
   <link href="https://blog.00000106.xyz/"/>
-  <updated>2025-08-07T20:24:36.000Z</updated>
+  <updated>2025-08-08T23:09:39.000Z</updated>
   <id>https://blog.00000106.xyz/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hexo安装与部署</title>
+    <link href="https://blog.00000106.xyz/posts/818a.html"/>
+    <id>https://blog.00000106.xyz/posts/818a.html</id>
+    <published>2025-08-08T19:26:53.000Z</published>
+    <updated>2025-08-08T23:09:39.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="什么是-Hexo？"><a href="#什么是-Hexo？" class="headerlink" title="什么是 Hexo？"></a>什么是 Hexo？</h1><p>Hexo 是一个快速、简洁且高效的博客框架。 Hexo 使用 Markdown（或其他标记语言）解析文章，在几秒内，即可利用靓丽的主题生成静态网页。</p><h1 id="安装要求"><a href="#安装要求" class="headerlink" title="安装要求"></a>安装要求</h1><p>安装 Hexo 相当简单，只需要先安装下列应用程序即可：</p><ul><li>Node.js </li><li>Git<br>Node. Js 需不低于 10.13，建议使用 Node. Js 12.0 及以上</li></ul><p>如果您的电脑中已经安装上述必备程序，那么恭喜你！ 你可以直接跟着接下来的步骤安装了。</p><p>如果您的电脑&#x2F;手机中尚未安装所需要的程序，请根据以下安装指示完成安装。</p><h3 id="安装-Git"><a href="#安装-Git" class="headerlink" title="安装 Git"></a>安装 Git<a href="https://hexo.io/zh-cn/docs/#%E5%AE%89%E8%A3%85-Git"></a></h3><ul><li>Windows：下载并安装 <a href="https://git-scm.com/download/win">git</a>。</li><li>Mac：使用 <a href="http://mxcl.github.com/homebrew/">Homebrew</a>, <a href="http://www.macports.org/">MacPorts</a> 或者下载 <a href="http://sourceforge.net/projects/git-osx-installer/">安装程序</a>。</li><li>Linux (Ubuntu, Debian)：</li></ul><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">sudo</span> apt-get install git-core</span><br></pre></td></tr></table></figure><ul><li>Linux (Fedora, Red Hat, CentOS)：</li></ul><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">sudo</span> yum install git-core</span><br></pre></td></tr></table></figure><ul><li>Android (Termux)：</li></ul><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">pkg install git</span><br></pre></td></tr></table></figure><div class="note info modern"><h4 id="Mac-用户"><a href="#Mac-用户" class="headerlink" title="Mac 用户"></a>Mac 用户</h4><p>如果在编译时可能会遇到问题。 请先到 App Store 安装 Xcode。 Xcode 完成后，启动并进入 Preferences -&gt; Download -&gt; Command Line Tools -&gt; Install 安装命令行工具。</p></div><h1 id="后续内容正在缓慢施工中…"><a href="#后续内容正在缓慢施工中…" class="headerlink" title="后续内容正在缓慢施工中…"></a>后续内容正在缓慢施工中…</h1>]]></content>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;什么是-Hexo？&quot;&gt;&lt;a href=&quot;#什么是-Hexo？&quot; class=&quot;headerlink&quot; title=&quot;什么是 Hexo？&quot;&gt;&lt;/a&gt;什么是 Hexo？&lt;/h1&gt;&lt;p&gt;Hexo 是一个快速、简洁且高效的博客框架。 Hexo 使用</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Hexo" scheme="https://blog.00000106.xyz/tags/Hexo/"/>
+    
+    <category term="教程" scheme="https://blog.00000106.xyz/tags/%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
@@ -40,6 +67,30 @@
   </entry>
   
   <entry>
+    <title>第一篇博客</title>
+    <link href="https://blog.00000106.xyz/posts/e838.html"/>
+    <id>https://blog.00000106.xyz/posts/e838.html</id>
+    <published>2025-08-04T14:55:11.000Z</published>
+    <updated>2025-08-07T20:24:36.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="介绍"><a href="#介绍" class="headerlink" title="介绍"></a>介绍</h1><hr><p>hello, 大家好, 我叫星然, 很高兴在这里认识你们.<br>这是我第一次搭建博客,所以这个博客主要是用来记录一下我的日常,以及一些我觉得好玩有趣的东西.<br>所以呢,这个网站可能访问的人并不会很多,这将是我一个人的日记博客,可以这样说😝</p><h3 id="所以如果有人来到了这个博客站-或者叫日记站"><a href="#所以如果有人来到了这个博客站-或者叫日记站" class="headerlink" title="所以如果有人来到了这个博客站,或者叫日记站"></a>所以如果有人来到了这个博客站,或者叫日记站</h3><h3 id="你可以在这里逛一逛-看看有没有什么你觉得有趣的东西"><a href="#你可以在这里逛一逛-看看有没有什么你觉得有趣的东西" class="headerlink" title="你可以在这里逛一逛,看看有没有什么你觉得有趣的东西."></a>你可以在这里逛一逛,看看有没有什么你觉得有趣的东西.</h3><p><img src= "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" onerror="this.onerror=null,this.src=&quot;/img/404.jpg&quot;" data-lazy-src="https://img.00000106.xyz/file/AgACAgQAAxkDAAOTaJDNJQLg8_Pg9U-ZlnZ3FkKrsJoAApjHMRvP4YlQ9MeLVT_CT3UBAAMCAAN5AAM2BA.jpg" alt="国风龙"></p>]]></content>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;介绍&quot;&gt;&lt;a href=&quot;#介绍&quot; class=&quot;headerlink&quot; title=&quot;介绍&quot;&gt;&lt;/a&gt;介绍&lt;/h1&gt;&lt;hr&gt;
+&lt;p&gt;hello, 大家好, 我叫星然,</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>安知鱼主题标签 Tag Plugins</title>
     <link href="https://blog.00000106.xyz/posts/d50a.html"/>
     <id>https://blog.00000106.xyz/posts/d50a.html</id>
@@ -54,9 +105,9 @@
     
     
     
-    <category term="Tag Plugins" scheme="https://blog.00000106.xyz/tags/Tag-Plugins/"/>
-    
     <category term="Hexo" scheme="https://blog.00000106.xyz/tags/Hexo/"/>
+    
+    <category term="Tag Plugins" scheme="https://blog.00000106.xyz/tags/Tag-Plugins/"/>
     
   </entry>
   
