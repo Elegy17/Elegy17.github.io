@@ -55,8 +55,8 @@
 
   const ldconfig = {
     light: {
-	  smallSrc: 'https://unpkg.com/xeran@0.0.7/img/电脑浅色模式小图.jpeg',
-	  largeSrc: 'https://unpkg.com/xeran@0.0.7/img/电脑浅色模式大图.jpeg',
+	  smallSrc: 'https://unpkg.com/xeran@0.0.8/img/电脑浅色模式小图.jpeg',
+	  largeSrc: 'https://unpkg.com/xeran@0.0.8/img/电脑浅色模式大图.jpeg',
 	  mobileSmallSrc: 'https://unpkg.com/xeran@0.0.7/img/手机浅色模式小图.jpeg',
 	  mobileLargeSrc: 'https://unpkg.com/xeran@0.0.7/img/手机浅色模式大图.jpeg',
 	  enableRoutes: ['/'],
